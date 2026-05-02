@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1777738679293",
+    "username": "vishnu gupta",
+    "email": "guptavishnu2711@gmail.com",
+    "password": "$2b$10$VvBh2RR.JKiri.6/JKLSqOhnwUAadWwqvRWAxtz39f.UO/g0TL8fe",
+    "createdAt": "2026-05-02T16:17:59.293Z"
+  },
+  {
+    "id": "1777743087107",
+    "username": "te",
+    "email": "invalidemail",
+    "password": "$2b$10$lhfPOF4sHwqeEG5JjlAb2eJvaw1ZlRkVIljJlqfwglJZd7JrCe6fi",
+    "createdAt": "2026-05-02T17:31:27.107Z"
+  },
+  {
+    "id": "1777743087216",
+    "username": "testuser_2adb2950",
+    "email": "testuser_2adb2950@test.com",
+    "password": "$2b$10$fh3ktmgG7.v01hcGM2qL0evCfak4KsOryssvbe.LaZfcTc38by3ma",
+    "createdAt": "2026-05-02T17:31:27.216Z"
+  },
+  {
+    "id": "1777743174943",
+    "username": "testuser_3d8e6e67",
+    "email": "testuser_3d8e6e67@test.com",
+    "password": "$2b$10$n1.cl3lFq9M8scwMFCzstul.dJMhupiWSFspG5o8KqYvj.iGZaaZ2",
+    "createdAt": "2026-05-02T17:32:54.943Z"
+  },
+  {
+    "id": "1777743215316",
+    "username": "testuser_d6682ced",
+    "email": "testuser_d6682ced@test.com",
+    "password": "$2b$10$WTlTRCHAzm6qzg3fQpTqru2D9mxWAHftj8GSzG/RMCGl.rtVN8f4q",
+    "createdAt": "2026-05-02T17:33:35.316Z"
+  },
+  {
+    "id": "1777744475740",
+    "username": "abhay ",
+    "email": "abhay@gmail.com",
+    "password": "$2b$10$gWGZ2bAJ/KJaNGuyk8EIWOnhQv.AXRmDDblghn40XEWQQtGMFbJZW",
+    "createdAt": "2026-05-02T17:54:35.740Z"
+  },
+  {
+    "id": "1777745117831",
+    "username": "tester",
+    "email": "tester@example.com",
+    "password": "$2b$10$A6zvVXkmyoWD3LKQrqOL8e3it1qsrbTGiyNmR5/Cd9bKkQt3XvzpK",
+    "createdAt": "2026-05-02T18:05:17.831Z"
+  }
+]
